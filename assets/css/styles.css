@@ -1,0 +1,494 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navstyle {
+    background-color: white;
+}
+
+.topinfo {
+
+    color: #131733;
+    font: normal normal 600 16px Poppins;
+    font-weight: 600;
+
+}
+
+.topinfo a {
+    text-decoration: none;
+    color: #131733;
+    ;
+}
+
+.back {
+    background-image: url('assets/images/Group\ 229.png');
+}
+
+.banner {
+    padding-top: 200px;
+}
+
+.banner h5 {
+    font: normal normal normal 16px Poppins;
+    color: white;
+    font-weight: 300;
+}
+
+.banner h1 {
+    font: normal normal 83px Poppins;
+    font-weight: 600;
+    line-height: 100px;
+}
+
+.banner button {
+    border-radius: 12px;
+    background-color: #F25345;
+    width: 226px;
+    height: 60px;
+    margin-bottom: 302px;
+    font: normal normal 600 16px Poppins;
+}
+
+
+.donationmoney {
+    padding-top: 80px;
+
+
+}
+
+.donationmoney h5 {
+    font: normal normal medium 20px Poppins;
+    color: #EE3124;
+    font-weight: 600;
+    line-height: 10px;
+
+}
+
+.donationmoney h3 {
+    font: normal normal 48px Poppins;
+    color: #131733;
+    font-weight: 600;
+}
+
+.box {
+    border: 1px solid #D8DADB;
+    padding: 30px;
+
+
+}
+
+.pot {
+    margin-top: -35px;
+}
+
+.box p {
+    color: #444444;
+    font: 16px;
+    font-weight: 500;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+.box h5 {
+    line-height: 20px;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+
+    text-overflow: ellipsis;
+
+}
+
+.dd {
+    font: normal normal medium 24px Poppins;
+    font-weight: 600;
+
+}
+
+.try {
+    padding-left: 100px;
+    padding-top: -70px;
+}
+
+.infographics {
+
+    padding-top: 143px;
+    padding-bottom: 201px;
+    margin-top: 143px;
+    background-image: url('../images/Group\ 266.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 76% 100%;
+
+
+}
+
+.justry {
+    background-image: url('../images/Group\ 266.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.stats {
+    padding-top: 70px;
+    padding-left: 90px;
+    padding-bottom: 100px;
+    border-right: #FF7468 10px solid;
+    border-bottom: #FF7468 10px solid;
+    width: 400px;
+    height: 650px;
+    position: absolute;
+    margin-top: -512px;
+    margin-left: 760px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+
+}
+
+
+.stath {
+    font: normal normal 600 48px Poppins;
+    line-height: 30px;
+}
+
+
+
+.infographicsleft {
+    position: relative;
+}
+
+
+.infographicsleft h1 {
+    font: normal normal 600 48px Poppins;
+    line-height: 80px;
+}
+
+.infographicsleft p {
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.infographicsleft button {
+    background: #FFFFFF;
+    border-radius: 12px;
+    width: 226px;
+    height: 60px;
+    font: normal normal 600 16px Poppins;
+    color: #F25345;
+}
+
+.support {
+    background-color: #F3F3F3;
+    padding-bottom: 100px;
+}
+
+.donationmoneyrow {
+    font: normal normal 24px Poppins;
+    font-weight: 500;
+}
+
+.donatebox h5 {
+    color: #EE3124;
+    font: normal normal 600 24px Poppins;
+}
+
+.donatebox p {
+    font: normal normal 600 18px Poppins;
+    line-height: 26px;
+    color: #131733;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 70px;
+}
+
+.donatebox p:empty {
+    background-color: #FF9F97;
+}
+
+.margin1 {
+    border-top: 1px solid #EE3124;
+
+}
+
+.donatebox button {
+    background: #F25345;
+    border-radius: 12px;
+    width: 226px;
+    height: 60px;
+    font: normal normal 600 16px Poppins;
+    color: white;
+}
+
+
+.yourdonation {
+    background-image: url('../images/Group\ 267.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 98px;
+}
+
+.waystohelp h3 {
+    font: normal normal 600 46px Poppins;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+
+.waystohelp p {
+    font: normal normal normal 16px Poppins;
+    color: #FFFFFF;
+    padding-bottom: 25px;
+    font-weight: 500;
+}
+
+.margin2 {
+    border-top: 1px solid white;
+}
+
+.paymentoption {
+    padding-bottom: 40px;
+}
+
+.nav-pills .nav-link {
+
+    border-radius: .25rem;
+
+}
+
+.box2 {
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    background-color: #FFFFFF;
+    border-radius: 12px 12px 0px 0px;
+}
+
+.box2 h3 {
+    font: normal normal 600 24px Poppins;
+    text-decoration: underline;
+    text-decoration-color: #EE3224;
+    text-decoration-thickness: 4px;
+
+}
+
+.box3 h3 {
+    font: normal normal 600 24px Poppins;
+    text-decoration: underline;
+    text-decoration-color: #EE3224;
+    text-decoration-thickness: 4px;
+
+}
+
+.box3 p {
+    font: normal normal 600 18px Poppins;
+}
+
+.box2 p {
+    font: normal normal 600 18px Poppins;
+}
+
+.paybtn button {
+    width: 180px;
+    height: 72px;
+    border: 1px solid #FF9F97;
+    border-radius: 8px;
+    margin-right: 5px;
+    font: normal normal 400 16px Poppins;
+
+}
+
+
+.nav-pills .nav-link.active,
+.nav-pills .show .nav-link>.nav-link {
+  
+    background-color: #F253451F;
+    border: 1px solid #FF9F97;
+   
+    
+
+}
+
+
+.nav-pills .nav-link {
+
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+
+}
+
+
+.amount button {
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+    width: 97px;
+    height: 46px;
+    font: normal normal medium 16px Poppins;
+    font-weight: 400;
+    color: #444444;
+    border: 1px solid #E2E2E2;
+    border-radius: 8px;
+
+}
+
+.paytype button {
+    width: 160px;
+    height: 110px;
+}
+
+.blogsection {
+    padding-bottom: 100px;
+}
+
+.blog {
+    border: 1px solid #E2E2E2;
+    border-radius: 0px 0px 4px 4px;
+    padding-bottom: 24px;
+
+}
+
+.blog p {
+    font: normal normal medium 12px Poppins;
+    line-height: 15px;
+    color: #EE3224;
+    font-weight: 600;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.blogdesc p {
+    font: normal normal normal 16px Poppins;
+    font-weight: 300;
+    color: #5E5E5E;
+}
+
+.bloghead {
+    font: 18px Poppins;
+    font-weight: 500;
+    color: black;
+}
+
+footer {
+    background-color: #272727;
+    padding-top: 60px;
+    padding-bottom: 124px;
+}
+
+.footertop span {
+    font: normal normal 600 16px Poppins;
+}
+
+.footerstyle p {
+    font: normal normal 14px Poppins;
+    color: #FFFFFF;
+    font-weight: 300;
+}
+
+.foottertitle {
+    font: normal normal medium 16px Poppins;
+    color: #FFFFFF;
+}
+
+.footerbutton button {
+    border-radius: 12px;
+    background-color: #F25345;
+    width: 226px;
+    height: 60px;
+    color: #FFFFFF;
+    font: normal normal 600 16px Poppins;
+    margin-top: -8px;
+}
+
+.footericon {
+    margin-top: -8px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+/*thank you page*/
+
+.thankyou {
+    padding-top: 180px;
+    padding-bottom: 337px;
+}
+
+.thankyou h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.thankyou p {
+    color: #EE3124;
+    font-size: 24px;
+}
+
+.thankyou button {
+    background: #F25345;
+    border-radius: 12px;
+    width: 226px;
+    height: 60px;
+    font: normal normal 600 16px Poppins;
+
+    color: #FFFFFF;
+}
+
+
+
+
+/*payment page*/
+
+.background {
+    background-image: url('../images/Group\ 269.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 38%;
+    background-color: #F3F3F3;
+
+}
+
+.paymentbox1 {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 60px;
+    max-width: 950px;
+
+
+    position: absolute;
+    margin: auto;
+
+}
+
+.secure {
+    background: #F4F7F8;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+.form label {
+    font: normal normal medium 14px Poppins;
+
+    color: #222222;
+}
+
+.subbtn {
+    width: 226px;
+    height: 60px;
+    background: #F25345;
+    border-radius: 12px;
+}
